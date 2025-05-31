@@ -1,0 +1,4 @@
+@import "tailwindcss";
+@import "@beamer/ui/styles/ui.css";
+
+@source "../node_modules/@beamer/ui";
